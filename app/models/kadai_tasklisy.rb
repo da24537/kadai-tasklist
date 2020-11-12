@@ -1,0 +1,2 @@
+class KadaiTasklisy < ApplicationRecord
+end
